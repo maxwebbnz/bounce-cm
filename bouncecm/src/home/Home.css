@@ -1,0 +1,12 @@
+.container {
+    margin-top: 10%;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: black;
+}
+
+
+body {
+    background-color: black;
+}

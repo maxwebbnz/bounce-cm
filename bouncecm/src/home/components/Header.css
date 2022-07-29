@@ -1,0 +1,9 @@
+.header {
+    /* background-color: white; */
+    border-radius: 20px;
+}
+
+.heading {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    text-transform: uppercase;
+}
